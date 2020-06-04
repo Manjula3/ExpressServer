@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Manjula:Manjula@fullstackapp1-g5rfj.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"Secret"
+}
