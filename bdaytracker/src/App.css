@@ -1,0 +1,67 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container{
+  max-width: 950px;
+  margin: auto;
+}
+
+.row{
+  display: flex;
+}
+
+.column{
+  display: flex;
+  direction: column;
+}
+
+
+
+/* background */
+.bg-dark{
+background-color: rgb(66, 66, 66);
+}
+
+.bg-light{
+  background-color: rgb(241, 238, 238);
+  }
+
+
+
+/* padding */
+  .px-10{
+    padding: 0px 10px;
+  }
+  .px-5{
+    padding: 0px 5px;
+  }
+  .py-10{
+    padding: 10px 0px;
+  }
+  .py-5{
+    padding: 5px 0px;
+  }
+
+
+
+  /* font */
+
+  .fc-white{
+    color: white;
+  }
+  .fc-red{
+    color:rgb(204, 58, 13);
+  }
+
+
+  /* viewport */
+  .hundred-vh{
+   min-height: 100vh;
+  }
+
+
+  /* -------------------------------------------------------------------- */
+ 
